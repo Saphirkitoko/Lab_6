@@ -1,0 +1,9 @@
+2024-12-17 21:25:04,273 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2024-12-17 21:25:04,403 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/forecast?lat=44.97&lon=-93.26&units=metric&appid=84b4d38c58c86c6f711a3602486fdbcc HTTP/11" 200 15996
+2024-12-17 21:25:04,453 - CRITICAL - Unexpected error occurred: function missing required argument 'month' (pos 2)
+2024-12-17 21:25:20,083 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2024-12-17 21:25:20,216 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/forecast?lat=44.97&lon=-93.26&units=metric&appid=84b4d38c58c86c6f711a3602486fdbcc HTTP/11" 200 15996
+2024-12-17 21:25:20,270 - CRITICAL - Unexpected error occurred: function missing required argument 'month' (pos 2)
+2024-12-17 21:30:49,156 - DEBUG - Request URL: https://api.openweathermap.org/data/2.5/forecast?lat=44.97&lon=-93.26&units=metric&appid=84b4d38c58c86c6f711a3602486fdbcc
+2024-12-17 21:30:49,158 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2024-12-17 21:30:49,308 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/forecast?lat=44.97&lon=-93.26&units=metric&appid=84b4d38c58c86c6f711a3602486fdbcc HTTP/11" 200 15996
